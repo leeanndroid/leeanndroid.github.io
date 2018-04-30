@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+
+plugins: [jekyll-youtube]
+ # This will require each of these gems automatically.
