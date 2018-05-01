@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Leeanndroid
 Description: Home page for LeeAnne Rimel
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leeanndroid.com" # the base hostname & protocol for your site
+twitter_username: leeanndroid
+github_username:  leeanndroid
